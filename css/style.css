@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto|Satisfy|Allura"); @import url("fontawesome-all.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto|Releway"); @import url("fontawesome-all.min.css");
 
 /*
 Kevin Jessid Figueroa Maza | Professional Resume | CSS
@@ -41,7 +41,7 @@ html {
 }
 
 html {
-	background-image: url("../images/capa.png"), url("../images/mountains.jpg");
+	background-image: url("../images/capa.png"), url("../images/cosmos.jpg");
 	background-color: #313a3d;
 	background-attachment: fixed,fixed;
 	background-position: top left,center;
@@ -71,9 +71,9 @@ html {
 		}
 
 body {
-	color: #6f7577;
+	color: #acacac;
 	font-family: "Roboto", "Helvetica", sans-serif;
-	font-size: 15pt;
+	font-size: 12pt;
 	font-weight: 400;
 	line-height: 1.75em;
 }
@@ -92,7 +92,7 @@ rol {
 	
 
 h1 {
-	color: #61686b;
+	color: #acacac;
 	font-weight: 800;
 	letter-spacing: 0.075em;
 	line-height: 1em;
@@ -109,14 +109,6 @@ h1 {
 		font-size: 1.7em;
 		line-height: 1.5em;
 	}
-
-nombre {
-	font-family: "Allura";
-	color: #61686b;
-	font-size: 18pt;
-	font-weight: 400;
-	line-height: 1.75em;
-}
 
 bloques {
 	border-left: solid 6px #dddddd;
@@ -146,10 +138,10 @@ bloques {
     background-color: #ffffff;
     border: none;
     color: #47484b;
-	font-family: "Roboto";
+	font-family: "Raleway", sans-serif;
 	font-weight: bold;
     text-align: center;
-    font-size: 14px;
+    font-size: 12px;
     padding: 5px;
     width: 200px;
     transition: all 0.5s;
@@ -192,10 +184,10 @@ bloques {
     border: none;
     color: #47484b;
     text-align: center;
-    font-size: 15px;
+    font-size: 12px;
     padding: 5px;
-    width: 80px;
-    transition: all 0.5s;
+    width: 110px;
+	transition: all 0.5s;
     cursor: pointer;
     margin: 1px;
     opacity: 0.7;
@@ -413,21 +405,22 @@ bloques {
 		text-align: center;
 	}
 
+
 	header p {
-		color: #61686b;
+		color: #474747;
 		letter-spacing: 0.05em;
 		text-transform: uppercase;
 	}
 
 	header titulo {
-		color: #61686b;
+		color: #acacac;
 		letter-spacing: 0.05em;
 		font-size: 1.15em;
 		font-weight: bold;
 	}
 
 	header rol {
-		color: #61686b;
+		color: #acacac;
 		letter-spacing: 0.05em;
 		font-size: 1.1em;
 		font-weight: bold;
@@ -464,7 +457,7 @@ bloques {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
-		color: #61686b;
+		color: #acacac;
 	}
 
 		.icon:before {
@@ -528,7 +521,7 @@ ul.icons {
 
 	ul.icons li {
 		display: inline-block;
-		padding: 0 1.5em 0 0;
+		padding: 0 1em 0 0;
 	}
 
 		ul.icons li:last-child {
@@ -536,7 +529,7 @@ ul.icons {
 		}
 
 		ul.icons li .icon:before {
-			font-size: 1em;
+			font-size: 1.5em;
 		}
 
 /* BackgroundImage */
@@ -575,7 +568,7 @@ ul.icons {
 
 		.cuerpo .container {
 			padding: 1em 2.5em 0.5em 2.5em ;
-			background: rgba(255, 255, 255, 0.80);
+			background: #020918cc;
 			box-shadow: inset 0 1px 0 0 #dddddd;
 		}
 
