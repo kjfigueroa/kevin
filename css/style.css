@@ -201,7 +201,7 @@ bloques {
 		}
   
 		.clanguage span:after {
-		    position: absolute;
+			position: absolute;
 		    opacity: 0;
 		    top: 0;
 		    right: -20px;
