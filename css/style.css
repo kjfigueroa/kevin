@@ -41,7 +41,8 @@ html {
 }
 
 html {
-	background-image: url("../images/capa.png"), url("../images/cosmos.jpg");
+	background-image: url("../images/capa.png"), url("../images/scifi-spaceship.jpg");
+	/*Background Image from: Wallpaper HD of starfield, Bethesda Softworks, space*/
 	background-color: #313a3d;
 	background-attachment: fixed,fixed;
 	background-position: top left,center;
